@@ -1,5 +1,5 @@
 # Exploring-Java
-My first java programs.
+My first java projects.
 
 I'm working through going back and commenting my old code, something I really wish I had done from the start!
 
