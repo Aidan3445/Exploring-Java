@@ -13,8 +13,7 @@ public class BuildList {
 		System.out.println(x);
 
 		List<Integer> y = new ArrayList<>();
-		for (@SuppressWarnings("unused")
-		int j = 0; y.size() < 10; j++) {
+		for (int j = 0; y.size() < 10; j++) {
 			Random t = new Random();
 			y.add(t.nextInt(100));
 		}
